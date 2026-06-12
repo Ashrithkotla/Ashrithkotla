@@ -307,7 +307,7 @@ Building scalable full-stack applications with modern web technologies while con
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashrithkotla&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ashrithkotla&theme=tokyonight&row=2&column=4"/>
 
 </div>
 
