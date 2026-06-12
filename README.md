@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Location-India-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-A855F7?style=for-the-badge)
 
-<a href="https://github.com/Ashrith-kotla">
+<a href="https://github.com/Ashrithkotla">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com/in/AshrithKolta">
+<a href="https://linkedin.com/in/Ashrithkolta">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=Ashrith-kotla&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Ashrithkotla&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -125,7 +125,7 @@ AI-powered healthcare platform designed to streamline patient prioritization, ap
 | Performance | Optimized API communication |
 | Security | Secure authentication and data handling |
 | Impact | Improved patient prioritization |
-| Repository | https://github.com/Ashrith-kotla |
+| Repository | https://github.com/Ashrithkotla |
 
 ### Highlights
 
@@ -153,7 +153,7 @@ Full-stack educational management platform supporting students, teachers, admini
 | Performance | Optimized query execution |
 | Security | Role-based access control |
 | Impact | Improved educational accessibility |
-| Repository | https://github.com/Ashrith-kotla |
+| Repository | https://github.com/Ashrithkotla |
 
 ### Highlights
 
@@ -182,7 +182,7 @@ Community-driven platform connecting food donors with organizations and individu
 | Performance | Pagination & caching optimization |
 | Security | JWT Authentication |
 | Impact | Reduced food wastage |
-| Repository | https://github.com/Ashrith-kotla |
+| Repository | https://github.com/Ashrithkotla |
 
 ### Highlights
 
@@ -287,9 +287,9 @@ Building scalable full-stack applications with modern web technologies while con
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashrith-kotla&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashrithkotla&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrith-kotla&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrithkotla&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -297,7 +297,7 @@ Building scalable full-stack applications with modern web technologies while con
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrith-kotla&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrithkotla&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -307,7 +307,7 @@ Building scalable full-stack applications with modern web technologies while con
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashrith-kotla&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ashrithkotla&theme=algolia&no-frame=true&column=4&margin-w=15"/>
 
 </div>
 
@@ -317,7 +317,7 @@ Building scalable full-stack applications with modern web technologies while con
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashrith-kotla&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashrithkotla&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -327,7 +327,7 @@ Building scalable full-stack applications with modern web technologies while con
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ashrith-kotla/Ashrith-kotla/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Ashrithkotla/Ashrithkotla/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -371,11 +371,11 @@ Open_To:
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://linkedin.com/in/AshrithKolta">
+<a href="https://linkedin.com/in/Ashrithkolta">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://github.com/Ashrith-kotla">
+<a href="https://github.com/Ashrithkotla">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 
