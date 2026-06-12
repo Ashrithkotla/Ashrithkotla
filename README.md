@@ -305,11 +305,10 @@ Building scalable full-stack applications with modern web technologies while con
 
 # GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashrithkotla&theme=tokyonight&row=2&column=4"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashrithkotla&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashrithkotla&theme=tokyonight" />
+</p>
 
 ---
 
