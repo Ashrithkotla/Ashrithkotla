@@ -17,7 +17,7 @@ steps:
   - name: Generate snake animation
     uses: Platane/snk@v3
     with:
-      github_user_name: Ashrithkotla
+      github_user_name: Ashrith-kotla
       outputs: |
         dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
